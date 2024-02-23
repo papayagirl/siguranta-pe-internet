@@ -1,0 +1,27 @@
+ul.meniu{
+    border-style: solid;
+	border-color:blue;
+	border-width: 4px;
+	border-radius:15px;
+	background-color: aqua;
+	padding: 10px;
+	text-align: center;
+	margin: 10px;
+	font-size: 25px;
+}
+ul.meniu li{
+	list-style-type:none;
+	display:inline;
+	margin-left : 10 px;
+	margin-right:10px;
+}
+ul.meniu li a{
+	 color:black;
+}
+ul.meniu li a:hover{
+	 background-color:silver;
+}
+	
+	
+	
+	
